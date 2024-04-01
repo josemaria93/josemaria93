@@ -1,9 +1,10 @@
-# !Hola, mi nombre es Jose Mari 👋
+
+# !Hola, mi nombre es Jose Mari 👋 [![foto.png](https://i.postimg.cc/gjjsztBY/foto.png)](https://postimg.cc/Fkt3Gp4q)
 tengo 30 años y estoy en proceso de sacarme un grado superior el cual se llama administracioń de sistemas informaticos en red
 
 Vivo en Sevilla, concretamente en Mairena Del Aljarafe y actualmente estoy trabajando en el aeropuerto de sevilla como agente de rampa para ryanair
 
-Mi objetivo es poder aprender todo lo que pueda del módulo que estoy estudiando y empezar a trabajar de ello, aqui os dejo mi CV para que sepáis los estudios que tengo y de que he estado trabajando
+Mi objetivo es poder aprender todo lo que pueda del módulo que estoy estudiando y empezar a trabajar de ello
 
 
 ## Encuéntrame en:
