@@ -1,7 +1,11 @@
-### Hi there 👋
+# !Hola, mi nombre es Jose Mari 👋
+tengo 30 años y estoy en proceso de sacarme un grado superior el cual se llama administracioń de sistemas informaticos en red
 
-<!--
-**josemaria93/josemaria93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vivo en Sevilla, concretamente en Mairena Del Aljarafe y actualmente estoy trabajando en el aeropuerto de sevilla como agente de rampa para ryanair
+
+Mi objetivo es poder aprender todo lo que pueda del módulo que estoy estudiando y empezar a trabajar de ello
+
+## Encuéntrame en:
 
 Here are some ideas to get you started:
 
