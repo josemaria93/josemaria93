@@ -3,7 +3,8 @@ tengo 30 años y estoy en proceso de sacarme un grado superior el cual se llama 
 
 Vivo en Sevilla, concretamente en Mairena Del Aljarafe y actualmente estoy trabajando en el aeropuerto de sevilla como agente de rampa para ryanair
 
-Mi objetivo es poder aprender todo lo que pueda del módulo que estoy estudiando y empezar a trabajar de ello
+Mi objetivo es poder aprender todo lo que pueda del módulo que estoy estudiando y empezar a trabajar de ello, aqui os dejo mi CV para que sepáis los estudios que tengo y de que he estado trabajando
+
 
 ## Encuéntrame en:
 
